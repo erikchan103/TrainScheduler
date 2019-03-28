@@ -28,10 +28,10 @@ $("#submitbutton").on("click", function (event) {
 
     alert("Train schedule successfully added");
 
-    $("#employee-name-input").val("");
-    $("#role-input").val("");
-    $("#start-input").val("");
-    $("#rate-input").val("");
+    $("#input1").val("");
+    $("#input2").val("");
+    $("#input3").val("");
+    $("#input4").val("");
 })
 
 database.ref().on("child_added", function (childSnapshot) {
