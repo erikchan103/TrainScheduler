@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+#cardTable {
+  margin-bottom: 15px;
+}
+
+#tableContainer {
+  text-align: center;
+}
+
+.form-group {
+  margin: 10px;
+  font-weight: bold;
+
+}
+
+#submitbutton {
+  margin: 10px;
+  background-color: #327ab7;
+}
+
+.card-header {
+  color: white;
+  font-weight: bold;
+  /* background-color: #327ab7; */
+}
+
